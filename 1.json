@@ -1,1 +1,6 @@
-{"name":"Dulevan Dragon Green #001","description":"From the land of Ankaerodan, the Dulevan dragon is a mischievious fire starter who can start fires in more ways than one\n            He's good to have on your side, but keep a close eye if you want to stay out of trouble. Sometimes Dulevan is the kind of dragon friend you might feel better off without. He lives for thousands of years and never forgets a good turn or a hurt feeling.\n            \n            Join us here and enter the adventure: https://discord.gg/vV6Evg2FCY","image":"https://nft.stellargate.io/images/dragon_1.gif","attributes":[{"trait_type":"Defense","value":"5.78189695654511"},{"trait_type":"Generation","value":"1st"},{"trait_type":"Home","value":"dragon cliffs"},{"trait_type":"Movement","value":"flying"},{"trait_type":"Type","value":"standard western dragon"},{"trait_type":"Breath","value":"Fire"},{"trait_type":"Damage","value":"19.6693862553146"},{"trait_type":"Eyes","value":"red"},{"trait_type":"Health","value":"294.888888142877"},{"trait_type":"Magic","value":"Fire magic"},{"trait_type":"Speed","value":"7.34972209844495"},{"trait_type":"Rarity","value":"Sapphire"}]}
+{
+    "name": "SanguMagazine #1",
+    "description": "First issue of Sangu Magazine",
+    "image": "https://ipfs.yomi.digital/ipfs/bafkreicz42q66cy7q5layxhsdlhq6kjzhwfzhj4q7u5hi4pfmn37f4d6ge",
+    "animation_url": "https://ipfs.yomi.digital/ipfs/QmaEwkw9ABH5KFUG58C7MTguVP2FLfsV6AbrtkPNHfGWys"
+  }
